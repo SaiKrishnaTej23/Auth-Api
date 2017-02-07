@@ -1,0 +1,35 @@
+{
+    "Users": [{
+            "Id": 1,
+            "Name": "Teja",
+            "Username": "tejakrshn",
+            "Password": "secret",
+            "HasAccess": true,
+            "Permissions": ["home", "about", "contact"]
+        },
+        {
+            "Id": 2,
+            "Name": "Keerthi",
+            "Username": "keerthi",
+            "Password": "secret",
+            "HasAccess": true,
+            "Permissions": ["home", "about", "contact"]
+        },
+        {
+            "Id": 3,
+            "Name": "Hinata",
+            "Username": "hinata",
+            "Password": "secret",
+            "HasAccess": true,
+            "Permissions": ["home", "about", "contact"]
+        },
+        {
+            "Id": 4,
+            "Name": "Pramod Nithan Raj",
+            "Username": "pramod",
+            "Password": "secret",
+            "HasAccess": true,
+            "Permissions": ["home", "about", "contact"]
+        }
+    ]
+}
